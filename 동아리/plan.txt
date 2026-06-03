@@ -1,11 +1,24 @@
-1학기
+#  pixel_Teach
 
-print   - X
-input   - X
-if      - X
-for     - random
----------------
-while   - X
-list    - X
-class   - Json
+저장 및 공유용 저장소
 
+##  1학기 학습 내용
+
+###  현재까지 한 문법
+- [ ] print
+- [ ] input
+- [ ] if
+- [ ] for → random 활용
+
+---
+
+###  앞으로 할 문법
+- [ ] while
+- [ ] list
+- [ ] class → JSON 활용
+
+---
+
+##  목표
+- Python 기초 문법 이해
+- 1학기 안에 간단한 게임 만들기
