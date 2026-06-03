@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "name": "psg",
+            "pw": "0104",
+            "lv": 999,
+            "exp": 0,
+            "gold": 999999999,
+            "mining_try": 0,
+            "authority": "admin"
+        },
+        {
+            "name": "A",
+            "pw": "1234",
+            "lv": 1,
+            "exp": 0,
+            "gold": 362,
+            "mining_try": 0,
+            "authority": "user"
+        }
+    ],
+    "mineral": {
+        "돌": 1,
+        "철": 5,
+        "금": 10,
+        "다이아": 100
+    }
+}

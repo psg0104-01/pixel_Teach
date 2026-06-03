@@ -1,0 +1,11 @@
+1학기
+
+print   - X
+input   - X
+if      - X
+for     - random
+---------------
+while   - X
+list    - X
+class   - Json
+
