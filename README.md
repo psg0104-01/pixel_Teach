@@ -15,7 +15,7 @@
 ### 앞으로 배울것
 - [ ] while
 - [ ] list
-- [ ] def 배우기
+- [ ] def 
 - [ ] class → JSON 활용
 
 ---
